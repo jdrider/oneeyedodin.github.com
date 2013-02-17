@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 description: "Starting Out"
-category: miscellaneous 
+category: Miscellaneous 
 tags: [beginning]
 ---
 {% include JB/setup %}
