@@ -7,6 +7,17 @@
   {{ content }}
 </div>
 
+{% unless page.categories == empty %}
+  <div id="categories">
+    <h4>Categories</h4>
+    <ul>
+      {% assign categories_list = page.categories %}
+      {% include JB/categories_list %}
+    </ul>
+  </div>
+{% endunless %}
+
+<!--
 <div id="related">
   <h2>Related Posts</h2>
   <ul class="posts">
@@ -15,5 +26,6 @@
     {% endfor %}
   </ul>
 </div>
+-->
 
 {% include JB/comments %}
