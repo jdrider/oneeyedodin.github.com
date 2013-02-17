@@ -23,7 +23,7 @@
       <a href="{{ HOME_PATH }}">{{ site.title }}</a>
 
       <a class="extra" href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a>
-      <a class="extra" href="{{ BASE_PATH }}{{ site.JB.pages_path }}">Pages</a>
+      <!--<a class="extra" href="{{ BASE_PATH }}{{ site.JB.pages_path }}">Pages</a>-->
       <a class="extra" href="{{ BASE_PATH }}{{ site.JB.categories_path }}">Categories</a>
       <a class="extra" href="{{ BASE_PATH }}{{ site.JB.tags_path }}">Tags</a>
     </div>
@@ -33,8 +33,8 @@
     <div class="footer">
       <div class="contact">
         <p>
-          {{ site.author.name }}<br />
-          {{ site.tagline }}<br />
+          &copy; {{ site.author.name }} {{ site.time | date: '%Y'}}<br />
+          <!--{{ site.tagline }}<br />
           <a href='mailto:{{ site.author.email }}'>{{ site.author.email }}</a>
         </p>
       </div>
