@@ -124,8 +124,9 @@ ul.posts {
   }
 
     .site .footer .contact {
-      float: left;
-      margin-right: 3em;
+      /*float: left;
+      margin-right: 3em;*/
+      text-align: center;
     }
 
       .site .footer .contact a {
