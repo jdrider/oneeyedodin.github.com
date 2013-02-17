@@ -1,46 +1,31 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: More Than A Developer
+tagline: Tag line
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+**Welcome to my blog!**
+-----------------------
 
-## Update Author Attributes
+Be sure to check out the latest post or look in the archive to see if something else
+interests you.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+<br />
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+Latest Post
+===========
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+<div class="latest_post">
+    <span>{{ site.posts.first.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
+</div>
 
-    $ rm -rf _posts/core-samples
+<br />
+<br />
 
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+<div id="aboutme">
+  <a href="/pages/about.html">About the Author</a>
+</div>
 
 
