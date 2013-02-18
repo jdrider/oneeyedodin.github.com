@@ -14,7 +14,9 @@ description: ""
 
 My name is Joe and I'm a software developer.  I enjoy pretty much anything
 technology/software related.  My favorite thing to work on is anything for the
- [Android](http://www.android.com) platform.
+ [Android](http://www.android.com) platform.  Other interests of mine include
+cooking, reading, and weight lifting.  Feel free to contact me through one of
+the methods below or leave a comment on one of the posts.
 
 Misc. Info
 ==========
@@ -39,7 +41,7 @@ Favorites
 
 Contact
 -------
-[Email](mailto:oneEyedOdinDev@gmail.com)<br />
+[Email](mailto:riderj51@gmail.com)<br />
 [GitHub](https://github.com/oneEyedOdin)<br />
 [Google+](https://plus.google.com/u/0/108265342299167834567)<br />
 <a href="javascript:twitterMsg();">Twitter</a>
