@@ -54,6 +54,14 @@ the hot sauce, I would recommend it.  It will give the dish a noticeable "kick",
 without being unbearably spicy.
 
 ### Pictures
+<table>
+  <tr>
+    <td><img src="/assets/images/cooking/wi_carbonara/frying.JPG" alt="Frying the chicken and bacon" title="Frying the chicken and bacon" height="200" width="200" /></td>
+    <td><img src="/assets/images/cooking/wi_carbonara/eggs_added.JPG" alt="Chicken,Bacon, and Eggs" title="Chicken,Bacon, and Eggs" height="200" width="200" /></td>
+    <td><img src="/assets/images/cooking/wi_carbonara/sauce.JPG" alt="Sauces Added" title="Sauces Added" height="200" width="200"/></td>
+    <td><img src="/assets/images/cooking/wi_carbonara/final_product.JPG" alt="The Finished Product" title="The Finished Product" height="200" width="200"/></td>
+  </tr>
+</table>
 
    
 
