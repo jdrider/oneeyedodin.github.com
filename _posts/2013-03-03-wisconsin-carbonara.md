@@ -2,14 +2,12 @@
 layout: post
 title: "Wisconsin Carbonara"
 description: "Carbonara inspired pasta dish"
-category: cooking
+category: Cooking
 tags: [pasta, main courses, chicken, bacon]
 ---
 {% include JB/setup %}
 
-
-Wisconsin Carbonara
-===================   
+  
 This recipe is based on the classic Italian dish carbonara.  Upon actually
  reading a carbonara recipe, I found that the majority of the ingredients were 
 about the only thing that the two had in common.  So I decided to call it "Wisconsin Carbonara".
@@ -24,10 +22,9 @@ about the only thing that the two had in common.  So I decided to call it "Wisco
 * 1 (24oz) jar of pasta sauce
 * 2 Tbsp Cayenne Pepper Sauce (Hot sauce) - Optional
 * 1/2 cup shredded cheese
-   
-   
+
+<br />
 ### Servings
-   
 This should serve 5-6 adults.
   
 
@@ -47,17 +44,19 @@ This should serve 5-6 adults.
 12. Place in the oven for about 5 minutes. (Just long enough to melt the cheese)
 13. Take out of the oven, let stand for 10 minutes.
 14. Enjoy!
-   
+
+<br />
 ### My Thoughts
    
 I was very happy with how this recipe turned out.  One potential change would be
 to add 1/4 cup of chopped onion.  If you're on the fence about whether to add 
-the hot sauce, I would reccomend it.  It will give the dish a noticeable "kick",
+the hot sauce, I would recommend it.  It will give the dish a noticeable "kick",
 without being unbearably spicy.
 
 ### Pictures
 
    
+
 ### Feedback
 Please leave a comment if you have any feedback or questions about this recipe.
 If anyone decides to try it out, I would definitely like to hear about it.
