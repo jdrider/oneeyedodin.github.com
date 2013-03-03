@@ -24,7 +24,7 @@ Misc. Info
 Devices
 -------
 * **Optimus V**- ROM: CM10<br />
-* **Nexus 7** - ROM: AOSP 4.2.2 & CM10.1 via 
+* **Nexus 7** - ROM: Stock Android 4.2.2 & CM10.1 via 
 [MultiROM](http://forum.xda-developers.com/showthread.php?t=2011403)
 
 <br/>
